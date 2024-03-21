@@ -6,8 +6,8 @@ import Nav from "../Components/Nav";
 const MainLayout = () => {
     return (
         <div>
-            <div className="h-20"><Nav /></div>
-                <Outlet/>
+            <div className="h-16"> <Nav /> </div>
+            <Outlet />
             <Footer />
         </div>
     );
