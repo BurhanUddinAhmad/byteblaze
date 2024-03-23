@@ -1,7 +1,7 @@
 # Byteblaze
 
 Live site:
-[Demo Link]('https://65fe9dda159c7fda23cec173--sprightly-horse-96d63e.netlify.app/)
+[Demo]('https://65fe9dda159c7fda23cec173--sprightly-horse-96d63e.netlify.app/')
 
 
 Resources:
